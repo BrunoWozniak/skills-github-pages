@@ -1,6 +1,7 @@
 ---
 title: "Forcem Ipsum"
 date: 2024-01-23
+author: "Master Yoda"
 ---
 
 Captain. Yes, sir? Tell them we wish to board at once. With all due respect, the Ambassadors for the Supreme Chancellor wish to board immediately. Yes, yes, of course, as you know, our blockade is perfectly legal, and we'd be happy to receive the Ambassador.
@@ -14,4 +15,5 @@ Some kinda fight, mesa tinks. Do you think they have been taken to camps? More l
 Hey, hey! Gimme a lift. Ja Ja! Usen da booba! Wat! Mesa no have a booba. Here, taken dis one. Ja Ja! Jump Ja Ja! Jump! Throw down your weapons. They win this round. We're hit Artoo! Wah. I'm tring to stop.
 
 Created by Scotty G
+
 Forcem Ipsum © 2024
