@@ -1,6 +1,7 @@
 ---
 title: "Bacon Ipsum"
 date: 2024-01-21
+author: "Buffalo Bill"
 ---
 
 Bacon ipsum dolor amet bresaola turkey kielbasa fatback tenderloin. Corned beef bacon beef, turducken doner boudin short loin prosciutto swine salami hamburger. Beef landjaeger biltong turkey corned beef, strip steak ham chuck. Drumstick ribeye pork chislic bresaola pastrami sirloin tenderloin meatball.
