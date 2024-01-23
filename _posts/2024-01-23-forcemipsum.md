@@ -1,5 +1,5 @@
 ---
-title: "LOREM IPSUM"
+title: "Forcem Ipsum"
 date: 2024-01-23
 ---
 
